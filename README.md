@@ -1,1 +1,1 @@
-# Demogit
+# Sample Shell scripts to practice
