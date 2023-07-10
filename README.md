@@ -1,2 +1,2 @@
 # Sample Shell scripts to practice
-Basic shell scripting
+Shell scripting for Beginners
