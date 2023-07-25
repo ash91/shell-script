@@ -4,7 +4,7 @@ Shell scripts to practice
 
 <div align = center>
 
-<img src="shell.png" width="600" height="300" alt="banner">
+<img src="shell.png" width="800" height="300" alt="banner">
 
 <br>
 Shell scripting for Beginners
