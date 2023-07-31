@@ -1,5 +1,5 @@
 #!/bin/bash
-MyFile=cars.txt
+MyFile=/Documents/garud/arch-install/arch.png
 if [ -f "$MyFile" ]; then
 echo "$MyFile exists."
 else 
