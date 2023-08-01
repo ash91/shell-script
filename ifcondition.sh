@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -f ~/Downloads/Joplin-2.11.11.AppImage ];
+if [ -f app.txt];
 then
    echo "file exits"
 else
